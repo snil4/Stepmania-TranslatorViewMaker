@@ -1,4 +1,4 @@
-# TranslatorViewMaker
+# Stepmania-TranslatorViewMaker
 Have you ever tried to translate a program like Stepmania and wondered "Hmmmmm, now where can I find that line in the .ini?"
 Now there's no need to wonder!
 This program will make a translator view file for your translation .ini and make you translation job easier
